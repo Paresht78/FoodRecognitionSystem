@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/Paresht78/FoodRecognitionSystem.git
-    cd food-recognition-system
+    cd FoodRecognitionSystem
     ```
 
 2. **Create and activate a virtual environment**:
@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
 
 5. **Run the Streamlit application**:
     ```bash
-    streamlit run app.py
+    streamlit run StreamlitAppFatSecrateUse.py
     ```
 
 ## Usage
