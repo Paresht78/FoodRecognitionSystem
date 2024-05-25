@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/food-recognition-system.git
+    git clone https://github.com/Paresht78/FoodRecognitionSystem.git
     cd food-recognition-system
     ```
 
@@ -68,10 +68,6 @@ This project is made possible by the following:
 
 We welcome contributions to this project! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
-Thank you for using the Food Recognition System! We hope this tool helps you make healthier and more informed dietary choices. For any questions or feedback, please contact us at [your.email@example.com].
+Thank you for using the Food Recognition System! We hope this tool helps you make healthier and more informed dietary choices. For any questions or feedback, please contact us at [pareshtilokani088@gmail.com].
