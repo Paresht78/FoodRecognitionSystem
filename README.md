@@ -60,7 +60,7 @@ To run this project locally, follow these steps:
 
 This project is made possible by the following:
 
-- [MobileNet](https://arxiv.org/abs/1704.04861): A lightweight and efficient deep learning model for image classification.
+- [MobileNet](https://builtin.com/machine-learning/mobilenet): A lightweight and efficient deep learning model for image classification.
 - [FatSecret API](https://platform.fatsecret.com/): Provides comprehensive nutritional information.
 - [Streamlit](https://streamlit.io/): An open-source app framework for Machine Learning and Data Science.
 
