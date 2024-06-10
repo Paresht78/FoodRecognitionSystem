@@ -72,7 +72,7 @@ This project is made possible by the following:
 
 Watch the demo video below to see the Food Recognition System in action:
 
-[Download Video](FoodNutritionApp.mp4)
+![Demo Video](FoodNutritionApp.mp4)
 
 
 
