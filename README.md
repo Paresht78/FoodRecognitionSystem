@@ -64,6 +64,11 @@ This project is made possible by the following:
 - [FatSecret API](https://platform.fatsecret.com/): Provides comprehensive nutritional information.
 - [Streamlit](https://streamlit.io/): An open-source app framework for Machine Learning and Data Science.
 
+## Images
+
+![Alt text](image_url)
+
+
 ## Contributing
 
 We welcome contributions to this project! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
