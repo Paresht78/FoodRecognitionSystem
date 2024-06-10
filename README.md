@@ -75,13 +75,6 @@ This project is made possible by the following:
 ![Alt text](4.png)
 
 
-## Video
-
-Watch the demo video below to see the Food Recognition System in action:
-
-[Download Video](FoodNutritionApp.mp4)
-
-
 ## Contributing
 
 We welcome contributions to this project! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
