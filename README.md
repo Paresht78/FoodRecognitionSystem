@@ -74,7 +74,6 @@ This project is made possible by the following:
 
 ![Alt text](4.png)
 
-![Alt text](FoodNutrtionApp.mp4)
 
 ## Video
 
