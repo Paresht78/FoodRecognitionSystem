@@ -68,6 +68,14 @@ This project is made possible by the following:
 
 ![Alt text](image_url)
 
+## Video
+
+Watch the demo video below to see the Food Recognition System in action:
+
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## Contributing
 
